@@ -1,1 +1,1 @@
-
+The Online Book Store project is a web-based platform built using PHP and MySQL. It allows users to browse, search, and purchase books online. Key features include user registration, a book catalog with categories, a shopping cart, secure checkout, and user reviews. The admin panel enables easy management of books, orders, and users. This project provides a simple, efficient, and user-friendly experience for book enthusiasts.
